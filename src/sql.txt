@@ -1,0 +1,8 @@
+CREATE TABLE `match1103` (
+  `user_id` varchar(48) NOT NULL DEFAULT '',
+  `xingming` varchar(48) NOT NULL DEFAULT '',
+  `zhuanye` varchar(100) DEFAULT NULL,
+  `xuehao` varchar(48) NOT NULL,
+  `xingbie` varchar(48) DEFAULT NULL,
+  `shoujihao` varchar(48) DEFAULT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
